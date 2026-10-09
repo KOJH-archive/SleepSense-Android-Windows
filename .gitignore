@@ -1,0 +1,8 @@
+.toolchain/
+.work/
+*.log
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
